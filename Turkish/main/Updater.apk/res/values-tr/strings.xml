@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Güncelleyici</string>
+  <string name="battery_islow">&lt;font color=#f37981&gt;Şarj cihazını bağlayın&lt;/font&gt;</string>
+  <string name="battery_islow_desc">Pil seviyesi zip dosyasını güvenle yüklemek için çok düşük, şarj cihazınızı takın ve daha sonra tekrar deneyin!</string>
+  <string name="btn_changelog">Değişiklikler</string>
+  <string name="btn_download">İndir (%1$s)</string>
+  <string name="btn_error">Hata oluştu, yeniden denensin mi?</string>
+  <string name="btn_install">Yükle</string>
+  <string name="btn_no">İptal et</string>
+  <string name="btn_ok">Tamam</string>
+  <string name="btn_pause">Durdur</string>
+  <string name="btn_share">Paylaş</string>
+  <string name="btn_stop">Duraklat</string>
+  <string name="btn_yes">Evet</string>
+  <string name="check_new_version">Denetle</string>
+  <string name="dialog_3g_desc">"ROM'ları indirmek için Mobil Verilerin kullanılmasıyla paketinizin önemli miktarda kota harcayacağını unutmayın."</string>
+  <string name="dialog_3g_title">Uyarı!</string>
+  <string name="dialog_btn_3g">Yinede Devam Et</string>
+  <string name="dialog_btn_wifi">"Wi-Fi'ye geç"</string>
+  <string name="dialog_stop_desc">İndirme işlemini Duraklatılır veya Durdurabilir, şimdi seçimini yapabilirsin.</string>
+  <string name="dialog_stop_title">İndirme durdurulsun mu?</string>
+  <string name="download_done">Başarıyla indirildi!</string>
+  <string name="download_fail">İndirilirken hata oluştu!</string>
+  <string name="download_fail_desc">MD5 Sum eşleşmiyor ...</string>
+  <string name="downloading">İndiriliyor:</string>
+  <string name="downloading_desc">İndiriliyor, bildirim alanındaki durumu kontrol edin.</string>
+  <string name="install_desc">Cihaz, kurtarma için yeniden başlatılacak ve seçilen dosyayı yükleyecektir: &lt;b&gt;%1$s&lt;/b&gt;"
+Veriler silinmeyecek."</string>
+  <string name="install_title">Devam etmekten emin misin?</string>
+  <string name="menu_title_current_version_log">Neler yeni?</string>
+  <string name="menu_title_pick_rom_file">Güncelleme paketini seçin</string>
+  <string name="menu_title_recovery">Kurtarma Modunda yeniden başlatın</string>
+  <string name="message">%1$s</string>
+  <string name="message_checkbox">Gelecekteki mesajları Xioami.eu ekibinden gizle</string>
+  <string name="message_title">Not!</string>
+  <string name="new_version">Yeni sürüm bulundu!</string>
+  <string name="no_info">Bilgi yok.</string>
+  <string name="no_network">Ağ erişimi yok.</string>
+  <string name="no_update">Zaten güncel!</string>
+  <string name="no_xioamieu">"Xiaomi.eu ekibi tarafından oluşturulan MIUI Rom kullanmıyorsunuz!
+Güncellemeler sizin için uygun değildir!"</string>
+  <string name="notif_cancel">İptal et</string>
+  <string name="notif_install">Yükle</string>
+  <string name="notif_new_summary">Ayrıntıları almak için dokunun</string>
+  <string name="notif_new_title">Yeni sürüm mevcut!</string>
+  <string name="notifications_switch">Bildirimleri göster</string>
+  <string name="permdesc_cache_filesystem">Uygulamaya/önbellekte dosya yazma izin verir.</string>
+  <string name="permdesc_reboot">Uygulamaya, cihazı yeniden başlatma izin verir.</string>
+  <string name="permlab_cache_filesystem">Önbellek Erişimi</string>
+  <string name="permlab_reboot">Y. Başlatma Erişimi</string>
+  <string name="pick_not_found">Uygun Dosya Yöneticisi bulunamadı.</string>
+  <string name="pick_title">Kullanarak seçin:</string>
+  <string name="recovery_desc">Gelecekteki işlemleri iptal etme moduna aşina değilseniz, cihaz şimdi Kurtarma Modu için yeniden başlatılacaktır. Devam edilsin mi?</string>
+  <string name="server_error">Sunucu cevap vermiyor, uygulama düzgün çalışmayabilir!</string>
+  <string name="share_title">Paylaş:</string>
+  <string name="stable">Stabil</string>
+  <string name="version">Yüklü Sürüm:</string>
+  <string name="weekly">Haftalık</string>
+  <string name="wifi_recommended">Güvenli bir şekilde indirmek için  WiFi bağlantısı yok!</string>
+</resources>

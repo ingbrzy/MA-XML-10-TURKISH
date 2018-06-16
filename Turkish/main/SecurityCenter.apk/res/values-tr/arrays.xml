@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Bu hafta "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dün "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Bu hafta: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dün: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dün (veri)</item>
+        <item>Bugün (veri)</item>
+        <item>Bu ay (veri)</item>
+        <item>Dün WLAN</item>
+	<item>Bugün WLAN</item>
+        <item>Bu ay WLAN</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobil Kullanımı "</item>
+	<item>"WLAN Kullanımı "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil Kullanımı "</item>
+	<item>"WLAN Kullanımı "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Uyarıları göster</item>
+        <item>Uyar ve mobil veriyi kapat</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Daima</item>
+	<item>Sadece kabul edilenleri</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Cihaz kilitlendiğinde</item>
+        <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
+        <item>Cihaz kilitlendiğinde veya uygulamadan çıktıktan 1 dakika sonra</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Durumu</item>
+        <item>Uygulama Adı</item>
+        <item>Kullanım Sıklığı</item>
+	<item>Depolama Kullanımı</item>
+        <item>Yükleme Zamanı</item>
+        <item>Uygulamayı Kaldırabilirsiniz</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Duruma göre</item>
+        <item>Adına göre</item>
+        <item>Kullanıma göre</item>
+        <item>Kullandığı alana göre</item>
+        <item>Yükleme zamanına göre</item>
+        <item>Uygulamanın öncelikle kaldırılabileceğini göster</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Yükleme Kaynağı</item>
+        <item>Yükleme Zamanı</item>
+        <item>Son Güncelleme Kaynağı</item>
+	<item>Son Güncelleme Zamanı</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Veri Kullanımı</item>
+        <item>Telefon Bakiyesi</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>静音</item>
+        <item>金币</item>
+        <item>红包来了</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Kapat ve Bildir</item>
+        <item>Sadece Bildir</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Birkez</item>
+        <item>Hergün</item>
+        <item>Mesai Saatlerinde</item>
+        <item>Haftanın Her Günü</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Birkez</item>
+        <item>Hergün</item>
+        <item>Haftaiçi</item>
+        <item>Özel</item>
+    </string-array>
+</resources>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Ana Ekrana git</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer Seçenekler</string>
+  <string name="abc_action_mode_done">Tamam</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü Gör</string>
+  <string name="abc_activitychooserview_choose_application">Uygulama seç</string>
+  <string name="abc_capital_off">Kapalı</string>
+  <string name="abc_capital_on">Açık</string>
+  <string name="abc_search_hint">Ara…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorgu gir</string>
+  <string name="abc_searchview_description_voice">Sesli Ara</string>
+  <string name="abc_shareactionprovider_share_with">Paylaş:</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="albums">Albümler</string>
+  <string name="allow_draw_overlays_title">Oynatıcının diğer uygulamaların içinde çalışmasına izin ver</string>
+  <string name="allow_sdraw_overlays_description">Oynatıcı, diğer uygulamaların içinde videoları gösterebilmek için izin vermenize ihtiyaç duyar.</string>
+  <string name="allow_settings_access_brightness_description">Oynatıcı ekran parlaklığını değiştirebilmek için izin vermenize ihtiyaç duyar.</string>
+  <string name="allow_settings_access_brightness_title">Parlaklığı değiştirebilmeye izin ver</string>
+  <string name="allow_settings_access_ringtone_description">Oynatıcı bu şarkının zil sesi olarak ayarlayabilmeniz için izin vermenize ihtiyaç duyar.</string>
+  <string name="allow_settings_access_ringtone_title">Oynatıcının zil sesi ayarlamasına izin ver</string>
+  <string name="allow_storage_access_description">Oynatıcı bu cihazdaki medya dosyalarına erişebilmek için izin vermenize ihtiyaç duyar.</string>
+  <string name="allow_storage_access_title">Oynatıcının video ve ses dosyalarına erişebilmesine izin ver</string>
+  <string name="app_name">Mi Video</string>
+  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="artists">Sanatçılar</string>
+  <string name="audio">Ses</string>
+  <string name="audio_delay">Ses Gecikmesi</string>
+  <string name="back_quit_lock">Videodan çıkmak için geri tuşuna yeniden basın</string>
+  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+  <string name="brightness">Parlaklık</string>
+  <string name="cancel">İptal</string>
+  <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle problem yaşıyor. Eğer problem devam ederse yazılım geliştiricileriyle irtibata geçin.</string>
+  <string name="default_text">Varsayılan</string>
+  <string name="default_web_client_id">632999161735-6aq4lemaj7m65ehgel6v3grrvgjo6bea.apps.googleusercontent.com</string>
+  <string name="delete">Sil</string>
+  <string name="delete_file_tips">Bu dosya silinsin mi?</string>
+  <string name="details">Detaylar</string>
+  <string name="dselect_all">Tümünü Seçme</string>
+  <string name="encountered_error_message">"Oynatıcı bu medyayı çalıştırırken hata oluştu.
+Lütfen medya kütüphanesini yenileyin."</string>
+  <string name="encountered_error_title">Oynatma Hatası</string>
+  <string name="error_text_invalid_progressive_playback">"Bu dosya türü desteklenmiyor."</string>
+  <string name="exit_app">Oynatıcıyı Kapat</string>
+  <string name="file">Dosya</string>
+  <string name="file_details" formatted="false">"Boyut: %s
+
+Uzunluk: %s
+
+Son Değişiklik: %s
+
+Konum: %s
+
+"</string>
+  <string name="filter">Filtre</string>
+  <string name="filter_file_tips">Bu dosya filtrelensin mi?</string>
+  <string name="firebase_database_url">https://miuiglobalvideoplayer.firebaseio.com</string>
+  <string name="folder">Dizin</string>
+  <string name="folder_up_tips">(Üst Dizin)</string>
+  <string name="gcm_defaultSenderId">632999161735</string>
+  <string name="genres">Tür</string>
+  <string name="google_storage_bucket">miuiglobalvideoplayer.appspot.com</string>
+  <string name="hide">Gizle</string>
+  <string name="hide_file_tips">Bu dosya gizlensin mi?</string>
+  <string name="hide_files_tips">Dosyaları gizle</string>
+  <string name="hide_filter_folder_tips">Dizini gizle</string>
+  <string name="history">Geçmiş</string>
+  <string name="home_tab_featured">Özellikli</string>
+  <string name="home_tab_hot">Yeni</string>
+  <string name="home_tab_local_video">Konum</string>
+  <string name="illegal_input_tips">Geçersiz giriş</string>
+  <string name="invalid_location">Konumdaki %1$s oynatılamaz.</string>
+  <string name="language_default">Varsayılan Dil</string>
+  <string name="last_added_media">en son eklendi</string>
+  <string name="load_more_and_more">fazlası için...</string>
+  <string name="loading">Yükleniyor</string>
+  <string name="locked">Kilitli</string>
+  <string name="more">Diğer</string>
+  <string name="more_file_details" formatted="false">"Boyut: %s
+
+Uzunluk: %s 
+
+"</string>
+  <string name="network_stream">Ağ Yayını</string>
+  <string name="no_filter_folder_tips">Dizinde filtre yok</string>
+  <string name="no_folder_found">Dizinde video bulunamadı</string>
+  <string name="no_hidden_files_tips">Gizli dosya yok</string>
+  <string name="no_search_found">Sonuç yok</string>
+  <string name="no_videos_found">Video yok</string>
+  <string name="ok">Tamam</string>
+  <string name="online">Çevrimiçi</string>
+  <string name="open">Aç</string>
+  <string name="open_subtitle_file">Altyazı dosyasını aç</string>
+  <string name="other">Diğer</string>
+  <string name="over_load_more">diğerleri için</string>
+  <string name="pause">Durdur</string>
+  <string name="permission_ask_again">İmtiyaz izni</string>
+  <string name="playlists">Çalma Listesi</string>
+  <string name="please_wait">Lütfen bekleyin…</string>
+  <string name="push">Devam et</string>
+  <string name="push_load_more">Diğerleri</string>
+  <string name="refresh">Yenile</string>
+  <string name="remove">Kaldır</string>
+  <string name="rename">Adlandır</string>
+  <string name="rename_file">Dosyayı Adlandır</string>
+  <string name="rename_folder">Dizini Adlandır</string>
+  <string name="rename_hidden_error">Dosya gizlenecek</string>
+  <string name="replace_num_files">%d dosya</string>
+  <string name="replace_num_videos">%d Video</string>
+  <string name="ringtone_error">Zil sesi yapılırken bir hata ile karşılaşıldı.</string>
+  <string name="ringtone_set">"'%1$s' dosya zil sesi olarak ayarlandır."</string>
+  <string name="sdcard_text">SD Kart</string>
+  <string name="sdcard_tips">SD Kart/</string>
+  <string name="search">Ara</string>
+  <string name="search_history">Geçişte Ara</string>
+  <string name="search_null_text">Lütfen anahtar kelimeyi girin</string>
+  <string name="select_all">Tümünü Seç</string>
+  <string name="send">Gönder</string>
+  <string name="settings">Ayarlar</string>
+  <string name="show_all_files_tips">Tüm dosyaları göster</string>
+  <string name="show_all_folder_tips">Tüm dizinleri göster</string>
+  <string name="small_a">A</string>
+  <string name="songs">Şarkılar</string>
+  <string name="sound_off">Ses Kapalı</string>
+  <string name="sound_on">Ses Açık</string>
+  <string name="spu_delay">Altyazı Gecikmesi</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="subtitle">Altyazı</string>
+  <string name="subtitle_color_text">Altyazı Rengi</string>
+  <string name="subtitle_font_tips">Altyazı Boyutu</string>
+  <string name="subtitles">Altyazılar</string>
+  <string name="synchronization">Eşitleme</string>
+  <string name="toast_player_list_header">Çalma Listesi</string>
+  <string name="toast_player_list_none">Başka içerik yok</string>
+  <string name="toast_screen_text_add">Başarıyla eklendi</string>
+  <string name="toast_screen_text_default">Varsayılan Boyut</string>
+  <string name="toast_screen_text_full">Tam Ekran</string>
+  <string name="toast_screen_text_horizontal">Yatay Ölçekle</string>
+  <string name="toast_screen_text_scaling">Ölçekle</string>
+  <string name="toast_screen_text_stream">Yayınla tuşuna basın</string>
+  <string name="toast_screen_text_vertical">Dikey Ölçekle</string>
+  <string name="track_audio">Ses Parçası</string>
+  <string name="track_text">Altyazı Parçası</string>
+  <string name="track_unknown">Bilinmeyen Parça</string>
+  <string name="track_video">Video Parçası</string>
+  <string name="unknown_album">Bilinmeyen Albüm</string>
+  <string name="unknown_artist">Bilinmeyen Sanatçı</string>
+  <string name="unknown_genre">Bilinmeyen Tür</string>
+  <string name="unlocked">Kilit açıldı</string>
+  <string name="unseekable_stream">Takip edilemeyen yayın</string>
+  <string name="v7_preference_off">Kapalı</string>
+  <string name="v7_preference_on">Açık</string>
+  <string name="video">Video</string>
+  <string name="video_error_network_not_available">"Ağa bağlanamadı"</string>
+  <string name="video_error_text_unknown">Bilinmeyen bir hata oluştu.</string>
+  <string name="video_error_title">Bilinmeyen hata</string>
+  <string name="video_file_details" formatted="false">%d Video | %s</string>
+  <string name="video_item_title_lines">2</string>
+  <string name="videos">Video</string>
+  <string name="volume">Ses</string>
+  <string name="wrapper_footer_text">Sayfanın sonuna ulaşıldı</string>
+</resources>

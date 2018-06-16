@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Önceki Sayfa</item>
+        <item>Sekmeye Geç</item>
+        <item>Yok</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Başlangıç Sayfası</item>
+        <item>Özel</item>
+        </string-array>
+        <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Çok Küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Masaüstü</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Sil</item>
+        <item>Hayır, teşekkürler</item>
+        </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Tamam</item>
+        <item>Takip et</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Tarayıcının Mesajı</item>
+        <item>Mi ile Olypmpics Takibi</item>
+    </string-array>
+	<string-array name="suggestion_weather_condition_message">
+        <item>Açık</item>
+        <item>Parçalı Bulutlu</item>
+        <item>Bulutlu</item>
+        <item>Hafif Yağmurlu</item>
+        <item>Gök Gürültülü</item>
+        <item>Dolu</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Hafif Yağmurlu</item>
+        <item>Yağmurlu</item>
+        <item>Ağır Yağmurlu</item>
+        <item>Yağmur Fırtınası</item>
+        <item>Sağanak Yağmur</item>
+        <item>Olağanüstü Fırtına</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Hafif Karlı</item>
+        <item>Karlı</item>
+        <item>Ağır Karlı</item>
+        <item>Tipi</item>
+        <item>Sisli</item>
+        <item>Dondurucu Yağmur</item>
+        <item>Kum Fırtınası</item>
+        <item>Küçük veya Orta Dereceli Yağmur</item>
+        <item>Orta ile Yoğun Yağış</item>
+        <item>Ağırdan Sağanak Yağışlı</item>
+        <item>Sağanak Yağmur</item>
+        <item>Aşırı Yağmur Fırtınası</item>
+        <item>Hafif Orta Karlı</item>
+        <item>Orta ve Yoğun Karlı</item>
+        <item>Ağır Kar Fırtınası</item>
+        <item>Tozlu</item>
+        <item>Kumlu</item>
+        <item>Kum Fırtınası</item>
+        <item>Yoğun Sisli</item>
+        <item>Aşırı Sisli</item>
+        <item>Puslu</item>
+        <item>Orta Puslu</item>
+        <item>Ağır Puslu</item>
+        <item>Şiddetli Puslu</item>
+        <item>Görüş Mesafesi Çok Az</item>
+        <item>Görüş Mesafesi Az</item>
+        <item>Birşey yok</item>
+        <item>Yağmurlu</item>
+        <item>Karlı</item>
+    </string-array>
+</resources>
