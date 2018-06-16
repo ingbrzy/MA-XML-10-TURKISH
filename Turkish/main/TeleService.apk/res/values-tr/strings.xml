@@ -2161,7 +2161,6 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
   <string name="voicemail_settings_number_title">Sesli Mesaj Numarası</string>
   <string name="voicemail_settings_with_label">Sesli Mesaj Numarası (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Görsel Sesli Mesaj</string>
   <string name="voip_setting">VoIP Ayarları</string>
   <string name="volte_conf_member_reach_max">Konferans zaten azami üyeye ulaştı.</string>
@@ -2213,7 +2212,6 @@ Görüşmeyi bitirmek için deneyin ve WLAN ağına tekrar bağlanmayı deneyin"
   <string name="wifi_calling_preference_title">Wi-Fi Çağrı Seçeneği</string>
   <string name="wifi_calling_select_call_assistant">Çağrı Yardımcısını seç</string>
   <string name="wifi_calling_select_call_assistant_summary">Çağrılarda kullanılan ağları yönetmek için bir uygulama veya hizmet seçin</string>
-  <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wifi_calling_summary">Wi-Fi Çağrı etkin ve Wi-Fi Çağrı için Seçenekleri seç</string>
   <string name="wifi_calling_title">Wi-Fi Çağrısı</string>
   <string name="wifi_calling_use_call_assistant">Çağrı Yardımcısını Kullan</string>

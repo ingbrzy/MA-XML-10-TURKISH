@@ -440,7 +440,6 @@ Daima orijinal aksesuar kullanın."</string>
   <string name="launch_defaults_some">Bazı varsayılanları ayarla</string>
   <string name="legacy_dhcp_client_summary">"Yeni Android DHCP istemcisi yerine Lollipop'tan DHCP istemcisini kullanın."</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Biraz bekleyin…</string>
   <string name="local_backup_password_summary_change">Masaüstü tam yedeklemeler için şifreyi kaldırmak veya değiştirmek için dokunun</string>
@@ -499,7 +498,6 @@ Daha fazla bilgi için, yöneticinize başvurun."</string>
   <string name="monitoring_description_personal_profile_named_vpn">Kişisel profiliniz, e-postalarınız, uygulamalarınız ve web siteleriniz de dahil olmak üzere ağ etkinliğinizi izleyebilen %1$s ile bağlantılıdır.</string>
   <string name="monitoring_description_two_named_vpns">"E-posta, uygulama ve web siteleri de dahil olmak üzere ağ etkinliğinizi izleyebilen %1$s ve %2$s'ye bağlısınız."</string>
   <string name="monitoring_description_vpn_settings">VPN Ayarlarını Aç</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">CA Sertifikaları</string>
   <string name="monitoring_subtitle_network_logging">Ağ Günlüğü</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
@@ -595,8 +593,6 @@ Daha fazla bilgi için, yöneticinize başvurun."</string>
   <string name="quick_settings_disclosure_vpns">"VPN'lere bağlı cihaz"</string>
   <string name="quick_settings_done">Tamam</string>
   <string name="quick_settings_more_settings">Diğer Ayarlar</string>
-  <string name="quick_settings_tiles">varsayılan</string>
-  <string name="quick_settings_tiles_default">Wifi, hücre, pil, dnd, el feneri, dönme, bt, uçak, yer</string>
   <string name="quick_settings_wifi_detail_empty_text">WLAN ağı mevcut değil</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Yakındaki bir ağı seç</string>
@@ -710,7 +706,6 @@ d MMMM"</string>
   <string name="status_bar_network_flow_limit">"   Aylık Limit: %1$s    "</string>
   <string name="status_bar_network_flow_purchase">"   Satın Al &gt;"</string>
   <string name="status_bar_network_flow_today">Bugün: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Açık uygulama yok!</string>
   <string name="status_bar_notification_inspect_item_title">Uygulama Bilgisi</string>
   <string name="status_bar_recent_guide_all">"Kapatmak için yukarı kaydırın 

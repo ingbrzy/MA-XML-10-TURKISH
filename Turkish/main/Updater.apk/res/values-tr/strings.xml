@@ -31,7 +31,6 @@ Veriler silinmeyecek."</string>
   <string name="menu_title_current_version_log">Neler yeni?</string>
   <string name="menu_title_pick_rom_file">Güncelleme paketini seçin</string>
   <string name="menu_title_recovery">Kurtarma Modunda yeniden başlatın</string>
-  <string name="message">%1$s</string>
   <string name="message_checkbox">Gelecekteki mesajları Xioami.eu ekibinden gizle</string>
   <string name="message_title">Not!</string>
   <string name="new_version">Yeni sürüm bulundu!</string>
