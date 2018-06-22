@@ -600,7 +600,6 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_reordering_delete_drop_target_text">Kaldır</string>
   <string name="kg_sim_pin_instructions">SIM PIN kodunu girin</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">%1$d saniye içinde tekrar deneyin.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
 
