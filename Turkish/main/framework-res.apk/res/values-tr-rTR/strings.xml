@@ -1398,8 +1398,6 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="ssl_ca_cert_warning">Ağ izlenebilir</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
-  <string name="status_bar_cdma_eri">cdma_eri</string>
-  <string name="status_bar_tty">tty</string>
   <string name="stk_cc_ss_to_dial">SS isteği DIAL isteği olarak değiştirildi.</string>
   <string name="stk_cc_ss_to_ss">SS isteği yeni SS isteği olarak değiştirildi.</string>
   <string name="stk_cc_ss_to_ussd">SS isteği USSD isteği olarak değiştirildi.</string>
