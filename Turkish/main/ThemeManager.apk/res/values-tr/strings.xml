@@ -105,7 +105,6 @@
   <string name="incompatible_dialog_ok">Anladım</string>
   <string name="incompatible_dialog_title">Uyumluluk Problemleri</string>
   <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor…</string>
-  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_alarm_ring">Alarm</string>
   <string name="item_resource_audio_optional_color_ring">Zil Sesi Tonu</string>
   <string name="item_resource_audio_optional_notification_ring">Bildirimler</string>
@@ -239,7 +238,6 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
   <string name="resource_detail_recommend_other_themes">Beğenildi</string>
   <string name="resource_detail_update_log_title">Güncellemeler</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s Detayları</string>
   <string name="resource_download">İndir</string>
   <string name="resource_download_notification_title_many">%1$s tema indirildi</string>
@@ -297,7 +295,6 @@
   <string name="resource_pack_warning">"Bu temadaki %1$d içerikleri satın aldınız. Ucuz olarak tek tek kalan bileşenleri satın alın."</string>
   <string name="resource_present">Hediye</string>
   <string name="resource_preview">Önizle</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ücretsiz</string>
   <string name="resource_price_unit">Mi Kredisi</string>
   <string name="resource_purchase_common_error">Operasyon başarısız. Lütfen sonra tekrar deneyin.</string>
