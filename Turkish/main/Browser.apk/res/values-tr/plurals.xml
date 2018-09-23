@@ -8,13 +8,16 @@
         <item quantity="other">%d eşleşme</item>
         <item quantity="one">%d eşleşme</item>
     </plurals>
-    <plurals name="last_num_days">
+    <plurals name="mw_last_num_days">
         <item quantity="other">Son %d gün</item>
-        <item quantity="one">Son %d gün</item>
     </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">"%2$d'de %1$d</item>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%2$d/%1$d</item>
         <item quantity="one">1 eşleşme</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d saniye sonra otomatik olarak yeni bir sayfa oluşturur</item>
+        <item quantity="one">%d saniye sonra otomatik olarak yeni bir sayfa oluşturur</item>
     </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Videoyu %1$d saniye içinde oynat</item>
@@ -43,9 +46,5 @@
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d dakika kaldı</item>
         <item quantity="one">%d dakika kaldı</item>
-    </plurals>
-    <plurals name="nav_screen_incognito_time">
-        <item quantity="other">%d saniye sonra otomatik olarak yeni sayfa oluşturulacak</item>
-        <item quantity="one">%d saniye sonra otomatik olarak yeni sayfa oluşturulacak</item>
     </plurals>
 </resources>
