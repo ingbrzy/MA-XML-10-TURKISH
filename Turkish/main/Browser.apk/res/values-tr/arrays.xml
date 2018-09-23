@@ -13,6 +13,11 @@
         <item>Telefon</item>
         <item>Pad</item>
     </string-array>
+    <string-array 
+name="pref_navscreen_layoutstate_choices">
+        <item>Dikey Bakış</item>
+        <item>Yatay Bakış</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Çok Küçük</item>
         <item>Küçük</item>
@@ -79,8 +84,13 @@
         <item>Şiddetli Puslu</item>
         <item>Görüş Mesafesi Çok Az</item>
         <item>Görüş Mesafesi Az</item>
-        <item>Birşey yok</item>
+        <item>Yok</item>
         <item>Yağmurlu</item>
         <item>Karlı</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Daima Sor</item>
+        <item>Aç</item>
+        <item>Kapat</item>
     </string-array>
 </resources>
