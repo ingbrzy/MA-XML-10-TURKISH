@@ -18,8 +18,7 @@
     </plurals>
     <plurals name="custom_progress">
         <item quantity="other">%d öğe</item>
-        <item quantity="one">
-%d item</item>
+        <item quantity="one">%d item</item>
     </plurals>
     <plurals name="trans_failed_summary">
         <item quantity="other">"%d öğe aktarılamadı. Detayları görmek için dokunun."</item>
