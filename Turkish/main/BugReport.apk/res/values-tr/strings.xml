@@ -9,8 +9,7 @@
   <string name="app_search">Uygulamaları ara</string>
   <string name="btn_send">Gönder</string>
   <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
-  <string name="bugreport_dialog_submit_content">
-&lt;Data&gt;"Şimdi bu cihazda yazılım kayıtlarını kaydediyorsunuz. Günlükler kişisel bilgi ve konum verilerinizi içerebilir. Bu bilginin açığa çıkmasını istemiyorsanız, günlükleri başkalarıyla paylaşmayın. \"Kabul\" seçeneğini seçmek, &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi&amp;lt;/a&amp;gt;okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Şimdi bu cihazda yazılım kayıtlarını kaydediyorsunuz. Günlükler kişisel bilgi ve konum verilerinizi içerebilir. Bu bilginin açığa çıkmasını istemiyorsanız, günlükleri başkalarıyla paylaşmayın. \"Kabul\" seçeneğini seçmek, &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi&amp;lt;/a&amp;gt;okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
   <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
   <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
@@ -97,30 +96,25 @@
   <string name="feedback_select_upload_log_select_desc">\"Günlük Ekle\" seçildi</string>
   <string name="feedback_status_answered">Cevaplanmış</string>
   <string name="feedback_status_change_notification_title">"Raporunuzun durumu güncellendi"</string>
-  <string 
-name="feedback_status_collect_log_failed">"Günlükler alınamadı"</string>
+  <string name="feedback_status_collect_log_failed">"Günlükler alınamadı"</string>
   <string name="feedback_status_commit_failed_title">Rapor gönderilemedi</string>
   <string name="feedback_status_commit_succ_title">Gönderildi</string>
   <string name="feedback_status_commit_uploading_title">Gönderiliyor…</string>
   <string name="feedback_status_forum_reply">Tekrarla</string>
-  <string 
-name="feedback_status_get_and_save_bbs_info_failed">"Ek URL alınamadı"</string>
+  <string name="feedback_status_get_and_save_bbs_info_failed">"Ek URL alınamadı"</string>
   <string name="feedback_status_jira_comment">Yorum ekle</string>
   <string name="feedback_status_more">Detaylar</string>
   <string name="feedback_status_processing">İşleniyor…</string>
   <string name="feedback_status_recorded">Geribildirim alındı</string>
   <string name="feedback_status_replyed">Cevaplandı</string>
   <string name="feedback_status_reresolved">Çözüldü</string>
-  <string 
-name="feedback_status_save_log_info_failed">"Ek URL'si değiştirilemedi"</string>
+  <string name="feedback_status_save_log_info_failed">"Ek URL'si değiştirilemedi"</string>
   <string name="feedback_status_submit_attachment">Ek başarıyla gönderildi</string>
-  <string 
-name="feedback_status_submit_bbs_failed">"Geribildirim içeriği gönderilemedi"</string>
+  <string name="feedback_status_submit_bbs_failed">"Geribildirim içeriği gönderilemedi"</string>
   <string name="feedback_status_submit_feedback_failed">"Geribildirim gönderilemedi"</string>
   <string name="feedback_status_supplement">"Probleminizin detaylarını tanımlayın"</string>
   <string name="feedback_status_supplement_more">Yorum ekle</string>
-  <string 
-name="feedback_status_upload_log_failed">"Ekler yüklenemedi"</string>
+  <string name="feedback_status_upload_log_failed">"Ekler yüklenemedi"</string>
   <string name="feedback_submit_failed_notification_desc">Detayları görüntüle</string>
   <string name="feedback_submit_failed_notification_retry">Yeniden gönder</string>
   <string name="feedback_submit_failed_notification_title">"Rapor gönderilemedi"</string>
@@ -264,17 +258,14 @@ name="feedback_status_upload_log_failed">"Ekler yüklenemedi"</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Fazlası</string>
   <string name="packaging_dialog_content">Rapor oluşturuluyor...</string>
-  <string 
-name="pic_not_exist">
+  <string name="pic_not_exist">
 "Bu resim mevcut değil"</string>
-  <string 
-name="pic_view_format">
+  <string name="pic_view_format">
 %1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Seçtiğiniz geribildirim, hata günlükleri ile birlikte, Mi sunucularına gönderilecektir."</string>
   <string name="plus_one_submit_dialog_not_show_again">Tercihleri hatırla</string>
   <string name="post_miui_bbs_failed">"MIUI Forumuna posta gönderilemedi"</string>
-  <string 
-name="privacy_category_title">Gizlilik</string>
+  <string name="privacy_category_title">Gizlilik</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için aşağı doğru çekin</string>
   <string name="pull_to_refresh_refreshing_label">Yenileniyor…</string>
@@ -308,11 +299,9 @@ name="privacy_category_title">Gizlilik</string>
   <string name="systemui">Bildirim Alanı</string>
   <string name="tab_title_chat">SSS</string>
   <string name="tab_title_my_reports">Raporlarım</string>
-  <string 
-name="tab_title_preferences">
+  <string name="tab_title_preferences">
 Ayarlar</string>
-  <string 
-name="tab_title_report">
+  <string name="tab_title_report">
 Geribildirim</string>
   <string name="title_answer_feedback_main">Cevabı bulduk!</string>
   <string name="title_customer_service">Müşteri Servisi</string>
@@ -329,8 +318,7 @@ Geribildirim</string>
   <string name="toast_feedback_submitting">Gönderiliyor...</string>
   <string name="toast_feedbackservice_in_submit">Önceki geribildirim gönderiliyor...</string>
   <string name="toast_fill_brackets">Raporda bazı bilgiler eksik</string>
-  <string 
-name="toast_loading_app_id">Bilgi alınıyor…</string>
+  <string name="toast_loading_app_id">Bilgi alınıyor…</string>
   <string name="toast_log_not_exists">"Gerekli günlük silindi veya mevcut değil"</string>
   <string name="toast_log_too_large">"Yüklenemedi. Dosya çok büyük."</string>
   <string name="toast_module_required">Öğe seç</string>
