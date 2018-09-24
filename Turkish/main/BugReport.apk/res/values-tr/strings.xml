@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_cancel">İptal</string>
-  <string name="action_confirm">Seç</string>
+  <string name="action_cancel">İptal et</string>
   <string name="action_submit">Gönder</string>
   <string name="announcement">Dikkat</string>
   <string name="app_empty">"Uygulama bulunamadı"</string>
@@ -10,14 +9,14 @@
   <string name="app_search">Uygulamaları ara</string>
   <string name="btn_send">Gönder</string>
   <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
-  <string name="bugreport_dialog_submit_content">"Artık yazılım günlüklerini bu cihaza kaydediyorsunuz. Kayıtlar kişisel bilgi ve konum verilerinizi içerebilir. Bu bilgilerin açığa çıkmasını istemiyorsanız, günlükleri başkasıyla paylaşmayın."</string>
+  <string name="bugreport_dialog_submit_content">
+&lt;Data&gt;"Şimdi bu cihazda yazılım kayıtlarını kaydediyorsunuz. Günlükler kişisel bilgi ve konum verilerinizi içerebilir. Bu bilginin açığa çıkmasını istemiyorsanız, günlükleri başkalarıyla paylaşmayın. \"Kabul\" seçeneğini seçmek, &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi&amp;lt;/a&amp;gt;okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
   <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
   <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
   <string name="bugreport_dump_start_notification_title">Hata raporu oluşturuluyor...</string>
   <string name="bugreport_tool_log_dumping_desc">Bir dakika kadar sürebilir</string>
   <string name="bugreport_tool_log_dumping_title">Hata raporu oluşturuluyor</string>
-  <string name="bugreport_feedback_from">Şurdan: %s</string>
   <string name="close_feedback_main">Gizle</string>
   <string name="cta_cancel">İptal</string>
   <string name="cta_confirm">Tamam</string>
@@ -98,19 +97,30 @@
   <string name="feedback_select_upload_log_select_desc">\"Günlük Ekle\" seçildi</string>
   <string name="feedback_status_answered">Cevaplanmış</string>
   <string name="feedback_status_change_notification_title">"Raporunuzun durumu güncellendi"</string>
+  <string 
+name="feedback_status_collect_log_failed">"Günlükler alınamadı"</string>
   <string name="feedback_status_commit_failed_title">Rapor gönderilemedi</string>
   <string name="feedback_status_commit_succ_title">Gönderildi</string>
   <string name="feedback_status_commit_uploading_title">Gönderiliyor…</string>
   <string name="feedback_status_forum_reply">Tekrarla</string>
+  <string 
+name="feedback_status_get_and_save_bbs_info_failed">"Ek URL alınamadı"</string>
   <string name="feedback_status_jira_comment">Yorum ekle</string>
   <string name="feedback_status_more">Detaylar</string>
   <string name="feedback_status_processing">İşleniyor…</string>
   <string name="feedback_status_recorded">Geribildirim alındı</string>
   <string name="feedback_status_replyed">Cevaplandı</string>
   <string name="feedback_status_reresolved">Çözüldü</string>
+  <string 
+name="feedback_status_save_log_info_failed">"Ek URL'si değiştirilemedi"</string>
   <string name="feedback_status_submit_attachment">Ek başarıyla gönderildi</string>
+  <string 
+name="feedback_status_submit_bbs_failed">"Geribildirim içeriği gönderilemedi"</string>
+  <string name="feedback_status_submit_feedback_failed">"Geribildirim gönderilemedi"</string>
   <string name="feedback_status_supplement">"Probleminizin detaylarını tanımlayın"</string>
   <string name="feedback_status_supplement_more">Yorum ekle</string>
+  <string 
+name="feedback_status_upload_log_failed">"Ekler yüklenemedi"</string>
   <string name="feedback_submit_failed_notification_desc">Detayları görüntüle</string>
   <string name="feedback_submit_failed_notification_retry">Yeniden gönder</string>
   <string name="feedback_submit_failed_notification_title">"Rapor gönderilemedi"</string>
@@ -135,7 +145,6 @@
   <string name="goon_feedback_main">Devam</string>
   <string name="hint_feedback_main">Problemi açıkla</string>
   <string name="issue_search">Ara</string>
-  <string name="hot_problem">Genel hataları göster</string>
   <string name="loading_apps">Liste yükleniyor…</string>
   <string name="login_system_failed">"Oturum açılamadı, tekrar deneyin"</string>
   <string name="logo_title">Geribildirim</string>
@@ -255,11 +264,18 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Fazlası</string>
   <string name="packaging_dialog_content">Rapor oluşturuluyor...</string>
-  <string name="permission_granted">%1$s izin verildi</string>
-  <string name="pic_not_exist">"Bu resim yok"</string>
+  <string 
+name="pic_not_exist">
+"Bu resim mevcut değil"</string>
+  <string 
+name="pic_view_format">
+%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Seçtiğiniz geribildirim, hata günlükleri ile birlikte, Mi sunucularına gönderilecektir."</string>
   <string name="plus_one_submit_dialog_not_show_again">Tercihleri hatırla</string>
   <string name="post_miui_bbs_failed">"MIUI Forumuna posta gönderilemedi"</string>
+  <string 
+name="privacy_category_title">Gizlilik</string>
+  <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için aşağı doğru çekin</string>
   <string name="pull_to_refresh_refreshing_label">Yenileniyor…</string>
   <string name="pull_to_refresh_release_label">Yenilemek için bırakın</string>
@@ -279,13 +295,12 @@
   <string name="section_err_type">Hatanın Türü</string>
   <string name="section_screenshot">Ekran Görüntüsü</string>
   <string name="select_system_app_tag">Bir sorun seçin</string>
-  <string name="server_error_message">Sunucu Hatası (Kod:%1$s), daha sonra tekrar deneyin</string>
-  <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
-  <string name="submit_dialog_content">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kişisel bilgiler içerebilir."</string>
-  <string name="submit_dialog_content_global">"Yüklemeler (varsa) ve günlükler (yüklemek istemediğiniz öğelerin karşılık gelen kutularını işaretleyemezsiniz) ile birlikte görüşleriniz analiz için geliştirici MIUI sunucularına ve sınırlı bir MIUI Forumu bölümüne gönderilecektir. Kayıtlar kişisel bilgi ve konum verilerinizi içerebilir. "</string>
-  <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
+  <string name="submit_dialog_content">
+&lt;Data&gt;"Ekleriniz ve eklerle birlikte geri bildiriminiz, MIUI sunucularına gönderilecektir. Kişisel bilgi ve konum verileriniz içerebilir. \"Kabul\" seçeneğini seçmek, &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi &amp;lt;/a&amp;gt;okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">
+&lt;Data&gt;"Ekleriniz (varsa) ve kayıtlar (yükleme yapmak istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte geribildiriminiz, MIUI sunucularına ve geliştiriciler için MIUI Forum'un kısıtlı bir bölümüne gönderilecektir. Konularınız ve forum etkinliğiniz hakkındaki bilgiler, analiz ve daha fazla iletişim için de toplanacaktır. Günlükler kişisel bilgi ve konum verilerinizi içerebilir. \"Kabul\" seçeneğini seçmek, &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi &amp;lt;/a&amp;gt;okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
   <string name="suggestion_description">Açıklamanızı buraya yazın</string>
@@ -293,10 +308,13 @@
   <string name="systemui">Bildirim Alanı</string>
   <string name="tab_title_chat">SSS</string>
   <string name="tab_title_my_reports">Raporlarım</string>
-  <string name="tab_title_report">Geribildirim</string>
-  <string name="time_in_justnow">Şu anda</string>
+  <string 
+name="tab_title_preferences">
+Ayarlar</string>
+  <string 
+name="tab_title_report">
+Geribildirim</string>
   <string name="title_answer_feedback_main">Cevabı bulduk!</string>
-  <string name="title_bbs_feedback_main">Mi telefonları hakkında daha fazla bilgi edinin</string>
   <string name="title_customer_service">Müşteri Servisi</string>
   <string name="title_frequent_question_feedback_main">SSS</string>
   <string name="title_mi_family">Mi Ev yakında</string>
@@ -311,6 +329,8 @@
   <string name="toast_feedback_submitting">Gönderiliyor...</string>
   <string name="toast_feedbackservice_in_submit">Önceki geribildirim gönderiliyor...</string>
   <string name="toast_fill_brackets">Raporda bazı bilgiler eksik</string>
+  <string 
+name="toast_loading_app_id">Bilgi alınıyor…</string>
   <string name="toast_log_not_exists">"Gerekli günlük silindi veya mevcut değil"</string>
   <string name="toast_log_too_large">"Yüklenemedi. Dosya çok büyük."</string>
   <string name="toast_module_required">Öğe seç</string>
