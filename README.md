@@ -27,7 +27,7 @@ Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-9.0-TURKISH/iss
 
 ## Changes will be added
 
-* This is MIUI 9.3 Turkish Language Project supported all of models...
+* This is MIUI 9.x Turkish Language Project supported all of models...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
